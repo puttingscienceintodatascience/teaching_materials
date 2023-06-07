@@ -13,6 +13,9 @@ https://www.db-fiddle.com/f/hYXCFFQoXn4i7FCiomwGZw/223
 The Website Color Challenge
 https://www.db-fiddle.com/f/aFAMc168sxfuFtRiSuYUnC/82
 
+The Recidivism Riddle
+https://www.db-fiddle.com/f/aFAMc168sxfuFtRiSuYUnC/88
+
 The Defective Helmets Exercise
 https://www.db-fiddle.com/f/aFAMc168sxfuFtRiSuYUnC/84
 
